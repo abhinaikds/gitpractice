@@ -12,3 +12,6 @@ def division(a,b):
 
 def dingribilli(a,b):
     return a+b/b
+
+def dingribilli(a,b):
+    return a+b/b+a
