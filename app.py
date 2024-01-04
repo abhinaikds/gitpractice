@@ -9,3 +9,6 @@ def subtraction(a,b):
 
 def division(a,b):
     return a/b
+
+def dingribilli(a,b):
+    return a+b/b
